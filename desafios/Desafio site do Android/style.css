@@ -41,7 +41,7 @@ header {
     padding-top: 40px;
 }
 
-header>h1 {
+header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
     font-size: 3em;
@@ -50,7 +50,7 @@ header>h1 {
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.267);
 }
 
-header>p {
+header > p {
     color: white;
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
@@ -58,7 +58,7 @@ header>p {
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.315);
 }
 
